@@ -1,0 +1,10 @@
+Duplicate words in line 1: sit, amet, elit, proin, lacinia, felis, non, turpis, vel
+Duplicate words in line 3: per, quis, velit, aliquam, donec, commodo, sed, egestas, lacinia, enim
+Duplicate words in line 5: sit, amet, sed, diam, purus
+Duplicate words in line 7: vivamus, aliquam, cras, nec, felis, libero, metus, blandit, semper, dolor, sit, amet, vehicula, arcu, quis, tellus, convallis, vel, mauris, ornare
+Duplicate words in line 9: cras, leo, vehicula, est, erat, vel, mauris, sit, amet, suscipit, nibh, nunc, rutrum, augue
+Duplicate words in line 11: purus, eget, tellus, eleifend, malesuada, sed, dolor, etiam, odio, est, vel, consectetur, hendrerit, porta, aliquet, phasellus, quam, erat
+Duplicate words in line 13: sem, sed, neque, eget, tellus, nulla, rhoncus, vitae, tortor, sollicitudin, nec, efficitur, orci, aliquam, donec, faucibus, augue, vestibulum, laoreet, porttitor, lacus, tincidunt, diam, vel, condimentum, consequat
+Duplicate words in line 15: sed, vel, consectetur, egestas, nulla, ultricies, quis, fermentum, odio, volutpat, fusce, augue, risus, pellentesque, gravida, dignissim, leo, aliquam, enim
+Duplicate words in line 17: aenean, nec, enim, aliquam, fusce, placerat, quam, phasellus, odio, nisl, urna, egestas, diam, ante, pretium, sem, vitae, eget, nunc, euismod, elit, laoreet, lorem, gravida, tellus
+Duplicate words in line 19: nulla, sollicitudin, sapien, quis, scelerisque, bibendum, suscipit, turpis, pretium, suspendisse, nunc, dignissim, vel, imperdiet, nec, libero, tincidunt, quam, est, accumsan, gravida, felis
